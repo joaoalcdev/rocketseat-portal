@@ -1,34 +1,41 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<br>
+<div align="center">
+  <img width="300" alt="NextJS-ChakraUI" src="./.github/assets/Nextjs-ChakraUI.png" />
 
-## Getting Started
+  <h4 align="center">
+     Next.js, declarative UI and design systems applied to ReactJS. Access the tutorial <a href="https://www.youtube.com/watch?v=6TEo2AxW-oQ">here</a>
+  </h4>
+</div>
 
-First, run the development server:
+---
+
+<p align="center">
+  <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/eugustavo/youtube-nextjs-design-system" />
+  <img alt="Github License" src="https://img.shields.io/github/license/eugustavo/youtube-nextjs-design-system" />
+</p>
+
+<p align="center">
+  <img alt="Rocketseat" src="./.github/assets/login-rocketseat.png">
+</p>
+
+
+## 🚀 Getting started
+
+To clone and run the application, you will need to have [Git](https://git-scm.com), [Node.js](https://nodejs.org) + [Yarn](https://yarnpkg.com) installed on your machine. With all programs installed, run the following command lines:
+
 
 ```bash
-npm run dev
-# or
-yarn dev
+# Clone this repository
+$ git clone https://github.com/rocketseat-content/youtube-nextjs-design-system
+
+# Access the repository
+$ cd youtube-nextjs-design-system
+
+# Install the dependencies
+$ yarn install
+
+# Run application
+$ yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
